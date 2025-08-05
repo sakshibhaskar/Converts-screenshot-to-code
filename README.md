@@ -1,9 +1,5 @@
 # screenshot-to-code
 
-A simple tool to convert screenshots, mockups and Figma designs into clean, functional code using AI. Now supporting Claude Sonnet 3.7!
-
-https://github.com/abi/screenshot-to-code/assets/23818/6cebadae-2fe3-4986-ac6a-8fb9db030045
-
 Supported stacks:
 
 - HTML + Tailwind
@@ -111,3 +107,4 @@ https://github.com/abi/screenshot-to-code/assets/23818/503eb86a-356e-4dfc-926a-d
 **Hacker News** but it gets the colors wrong at first so we nudge it
 
 https://github.com/abi/screenshot-to-code/assets/23818/3fec0f77-44e8-4fb3-a769-ac7410315e5d
+
